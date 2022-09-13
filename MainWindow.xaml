@@ -1,0 +1,20 @@
+﻿<Window x:Class="betterThanYou.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:betterThanYou"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="251" Width="358">
+    <Grid Margin="0,0,0,-16">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="637*"/>
+            <ColumnDefinition Width="327*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/gradient 1080p.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Button x:Name="enterbutton" Content="Enter" HorizontalAlignment="Left" Height="58" Margin="97,131,0,0" VerticalAlignment="Top" Width="158" FontFamily="Cascadia Mono SemiBold" FontSize="18" Click="enterbutton_Click" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="benchmax" HorizontalAlignment="Left" Margin="14,53,0,0" TextWrapping="Wrap" Text="Input Your Bench Max" VerticalAlignment="Top" Width="324" FontFamily="Cascadia Code SemiBold" Height="30" MouseEnter="benchmax_MouseEnter_1" MouseLeave="benchmax_MouseLeave_1" Grid.ColumnSpan="2" FontSize="24" TextAlignment="Center"/>
+    </Grid>
+</Window>

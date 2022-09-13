@@ -1,0 +1,16 @@
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\bin\Debug\betterThanYou.exe.config
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\bin\Debug\betterThanYou.exe
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\bin\Debug\betterThanYou.pdb
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.csproj.AssemblyReference.cache
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\MainWindow.g.cs
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\App.g.cs
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou_MarkupCompile.cache
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou_MarkupCompile.lref
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\MainWindow.baml
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.g.resources
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.Properties.Resources.resources
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.csproj.GenerateResource.cache
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.csproj.CoreCompileInputs.cache
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.exe
+C:\Users\jeffm\source\repos\betterThanYou\betterThanYou\obj\Debug\betterThanYou.pdb
